@@ -7,6 +7,13 @@ PHP developer from Voronezh, Russia. I love open source and write about web deve
 - 🧩 **[Yii3](https://github.com/yiisoft)** — a modern PHP framework. I'm a core team member and work across the whole framework.
 - 🤖 **[PHPTG](https://github.com/phptg)** — my project, a set of PHP packages for the Telegram Bot API. The main one is [phptg/bot-api](https://github.com/phptg/bot-api).
 
+#### ❤️ Support my work
+
+If my open source work is useful to you, you can support it:
+
+- [Boosty](https://boosty.to/vjik) — regular support
+- [CloudTips](https://pay.cloudtips.ru/p/192ce69b) — one-time donation
+
 #### GitHub Stats
 
 <picture>
