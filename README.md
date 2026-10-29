@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi, I'm Sergei Predvoditelev 👋
 
-My author's telegram channel in russian: [@sergei_predvoditelev](https://t.me/sergei_predvoditelev)
+PHP developer from Voronezh, Russia. I love open source and write about web development, PHP and OSS in my [Telegram channel](https://t.me/sergei_predvoditelev).
+
+#### What I'm working on
+
+- 🧩 **[Yii3](https://github.com/yiisoft)** — a modern PHP framework. I'm a core team member and work across the whole framework.
+- 🤖 **[PHPTG](https://github.com/phptg)** — my project, a set of PHP packages for the Telegram Bot API. The main one is [phptg/bot-api](https://github.com/phptg/bot-api).
 
 #### GitHub Stats
 
